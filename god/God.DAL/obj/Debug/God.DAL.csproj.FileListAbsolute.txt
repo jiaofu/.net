@@ -1,0 +1,5 @@
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\God.DAL\obj\Debug\God.DAL.csprojResolveAssemblyReference.cache
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\God.DAL\bin\Debug\God.DAL.dll
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\God.DAL\bin\Debug\God.DAL.pdb
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\God.DAL\obj\Debug\God.DAL.dll
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\God.DAL\obj\Debug\God.DAL.pdb

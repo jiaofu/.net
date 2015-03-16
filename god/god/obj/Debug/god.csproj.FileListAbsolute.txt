@@ -1,0 +1,6 @@
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\god\bin\god.dll.config
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\god\bin\god.dll
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\god\bin\god.pdb
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\god\obj\Debug\god.csprojResolveAssemblyReference.cache
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\god\obj\Debug\god.dll
+D:\同步盘\百度云同步盘\同步文件夹\god_60511_60511\god\god\obj\Debug\god.pdb
