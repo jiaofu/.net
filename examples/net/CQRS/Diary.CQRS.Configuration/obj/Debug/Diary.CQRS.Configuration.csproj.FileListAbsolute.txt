@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.Configuration.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.Configuration.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\bin\Debug\StructureMap.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\bin\Debug\Diary.CQRS.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\bin\Debug\StructureMap.xml
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\obj\Debug\Diary.CQRS.Configuration.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\obj\Debug\Diary.CQRS.Configuration.dll
+c:\users\administrator\documents\visual studio 2013\Projects\WebApplication3\Diary.CQRS.Configuration\obj\Debug\Diary.CQRS.Configuration.pdb
